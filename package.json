@@ -53,7 +53,7 @@
     "recursive-readdir": "^2.2.2",
     "stack-trace": "0.0.10",
     "strip-ansi": "^5.0.0",
-    "winston": "^3.1.0",
+    "winston": "^2.4.4",
     "yargs": "^12.0.5"
   },
   "devDependencies": {
