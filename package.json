@@ -1,6 +1,6 @@
 {
   "name": "@minowara/h265ize",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "mode": "development",
   "description": "h265ize is a fire and forget weapon. A nodejs utility utilizing ffmpeg to encode large quantities of videos with the hevc codec.",
   "main": "h265ize",
